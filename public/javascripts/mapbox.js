@@ -38,7 +38,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Navarro Florista</strong><p>Carrer de Sancho de Ávila, 7, 08018 Barcelona</p>',
+              description: '<strong>Navarro Florista</strong><p>Carrer de Sancho de Ávila, 7, 08018 Barcelona - 933 00 26 29</p>',
             },
             geometry: {
               type: 'Point',
@@ -51,7 +51,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Floristeria Marina Art Floral</strong><p>Carrer de la Marina, 112, 08018 Barcelona</p>',
+              description: '<strong>Floristeria Marina Art Floral</strong><p>Carrer de la Marina, 112, 08018 Barcelona - 935 25 65 82</p>',
             },
             geometry: {
               type: 'Point',
@@ -64,7 +64,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Floristeria La Plata</strong><p>Carrer de Ramon Turró, 160, 08005 Barcelona</p>',
+              description: '<strong>Floristeria La Plata</strong><p>Carrer de Ramon Turró, 160, 08005 Barcelona - 600 59 28 72</p>',
             },
             geometry: {
               type: 'Point',
@@ -77,7 +77,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Floristeria Margarita</strong><p>Plaça de Sant Bernat Calbó, 6-7, 08005 Barcelona</p>',
+              description: '<strong>Floristeria Margarita</strong><p>Plaça de Sant Bernat Calbó, 6-7, 08005 Barcelona - 932 25 39 15</p>',
             },
             geometry: {
               type: 'Point',
@@ -90,7 +90,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Floristeria Ezquerra</strong><p>Carrer de Llull, 202, 08005 Barcelona</p>',
+              description: '<strong>Floristeria Ezquerra</strong><p>Carrer de Llull, 202, 08005 Barcelona - no phone number added</p>',
             },
             geometry: {
               type: 'Point',
@@ -103,7 +103,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>FLORISTERÍA BOUQUETS & Co.</strong><p>Carrer de los Castillejos, 250, local 2, 08013 Barcelona</p>',
+              description: '<strong>FLORISTERÍA BOUQUETS & Co.</strong><p>Carrer de los Castillejos, 250, local 2, 08013 Barcelona - 930 42 64 83</p>',
             },
             geometry: {
               type: 'Point',
@@ -116,7 +116,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>Floristeria Maria</strong><p>Passeig de Sant Joan, 23, 08010 Barcelona</p>',
+              description: '<strong>Floristeria Maria</strong><p>Passeig de Sant Joan, 23, 08010 Barcelona - 931 43 57 75</p>',
             },
             geometry: {
               type: 'Point',
@@ -129,7 +129,7 @@ map.on('load', () => {
           {
             type: 'Feature',
             properties: {
-              description: '<strong>elnoidelesflors</strong><p>Carrer taulat 2, Cementiri poblenou, 08005 Barcelona</p>',
+              description: '<strong>elnoidelesflors</strong><p>Carrer taulat 2, Cementiri poblenou, 08005 Barcelona - 601 17 77 05</p>',
             },
             geometry: {
               type: 'Point',
